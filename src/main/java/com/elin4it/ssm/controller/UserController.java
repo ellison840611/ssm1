@@ -36,7 +36,7 @@ public class UserController {
         //设置响应的jsp视图
         modelAndView.setViewName("findUser");
 
-        System.out.println("github测试");
+        System.out.println("github测试1");
         return modelAndView;
     }
 }
